@@ -6,7 +6,7 @@ jobs:
     secrets: inherit
     with:
       board: '["nice_nano_v2"]'
-      shield: '["zweep_left","zweep_right"]'
+      shield: '["cradio_left","cradio_right"]'
       alphas: 'colemak'
       nav: 'invertedt'
       clipboard: 'default'
